@@ -5,4 +5,7 @@
 - style.css -> Solid colors for the box and their dimensions.
 - script.js -> Used basic DOM for the event.
 
-## 
+## BMI_Calculator
+-A simple Body Mass Index (BMI) calculator built with HTML, CSS, and JavaScript.
+-Calculate BMI using height & weight
+-Shows result instantly (no page reload)
